@@ -2,7 +2,7 @@
 
 This is the  Paginator component in a React application. You can see how the Paginator allows users to navigate through a dataset.
 
-![Feature Screenshot](./screenshot_1.jpeg)
+![Feature Screenshot](./src/screenshot_1.jpeg)
 
 ## Getting Started
 
