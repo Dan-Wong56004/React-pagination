@@ -2,6 +2,9 @@ import React, { useState } from "react";
 import { sampleData } from "./sampleData";
 import Paginator from "./paginator";
 
+// Note: This pagination is currently demonstrated using static sample data. In a production environment,
+// it should be integrated with backend services to fetch and display data dynamically based on pagination controls.
+
 export default function App() {
 // Pagination control: Number of pages displayed in the navigator.
 let pageInterval = 5; 
