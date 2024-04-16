@@ -1,6 +1,6 @@
-# Paginator Demo 
+## Paginator Demo 
 
-This is the  Paginator component in a React application. You can see how the Paginator allows users to navigate through a dataset.
+A customizable pagination interface, suitable for web applications requiring dynamic data display. You can see how the Paginator allows users to navigate through a dataset.
 
 ![Feature Screenshot](./src/screenshot_1.jpeg)
 
@@ -12,6 +12,11 @@ Make sure you have Node.js and npm installed:
 
 ### Installation
 Clone this repository and install dependencies:
-```bash
-git clone https://github.com/Dan-Wong56004/react-pagination.git
-npm install
+   ```
+     git clone https://github.com/Dan-Wong56004/react-pagination.git
+     npm install
+   ```
+
+###  Contributing
+Contributions are welcome! Please feel free to submit pull requests or open issues to suggest improvements or add new features.
+
