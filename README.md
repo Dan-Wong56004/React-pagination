@@ -2,7 +2,7 @@
 
 A customizable pagination interface, suitable for web applications requiring dynamic data display. You can see how the Paginator allows users to navigate through a dataset.
 
-![Feature Screenshot1](./src/screenshot.gif)
+<img src="./src/screenshot.gif" width="500" height="125" alt="Feature Screenshot1">
 ## Getting Started
 
 ### Prerequisites
